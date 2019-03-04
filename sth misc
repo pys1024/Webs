@@ -2,3 +2,5 @@
 2. bit device_reply, refresh device value;
 3. app startup send connected package;
 4. app arraylist add new childlist, fix bug.
+
+https://www.arduino.cn/thread-17898-1-1.html
